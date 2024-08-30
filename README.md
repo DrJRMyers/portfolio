@@ -54,7 +54,6 @@ A time series database company. Primarily marketing to developers using a produc
 <li><a href="https://www.influxdata.com/customer/volvo/">Volvo</a></li>
 <li><a href="https://www.influxdata.com/customer/wp-engine/">WP Engine</a></li>
 </ul>
-</li>
 
 ### Video
 I produced multiple series as well as one-off video projects. Responsibilities included: production, script writing, presenting. Full list of individual videos available upon request.</li>
@@ -77,8 +76,9 @@ I produced multiple series as well as one-off video projects. Responsibilities i
 
 
 #### Video Events
+<ul>
 <li><a href="https://www.youtube.com/results?search_query=influxdays+2022">InfluxDays 2022</a></li>
-
+</ul>
 
 ### Training
 <ul>
@@ -86,13 +86,14 @@ I produced multiple series as well as one-off video projects. Responsibilities i
 <li><a href="https://university.influxdata.com/courses/influxdbu-essentials-iox/">InfluxDB 3.0 Essentials (producer)</a></li>
 <li><a href="https://www.influxdata.com/training/what-is-time-series/">Intro to Time Series (instructor)</a></li>
 </ul>
-</li>
 
 ## Plum Voice
  An interactive voice response (IVR) company. Primarily marketing to developers and non-technical decision-makers, using a sales led growth approach. Website copy, B2B marketing materials, white papers, case studies, blog posts all through January 2020. Product and internal product documentation since January 2020. NOTE: Plum Voice was acquired in early 2024, which may affect historical content.
 
- ### Blog
- <a href="https://www.plumvoice.com/resources/blog/author/jason/">Internal blog posts</a> -
+### Blog
+ <ul>
+<li> <a href="https://www.plumvoice.com/resources/blog/author/jason/">Internal blog posts</a></li>
+</ul>
 
 ### Product Documentation
 <ul>
@@ -106,38 +107,44 @@ I produced multiple series as well as one-off video projects. Responsibilities i
 <ul>
 <li><a href="https://vimeo.com/plumvoiceivr">Plum Voice promo, product, and tutorial videos</a></li>
 </ul>
-</li>
-<li>Infographics
+
+### Infographics
 <ul>
 <li><a href="https://jasonmyersphd.files.wordpress.com/2019/02/prepaid-use-case-infographic-final.pdf">Financial Services - Prepaid Company</a></li>
 <li><a href="https://jasonmyersphd.files.wordpress.com/2019/02/mhppc-fuse-use-case-infographic.pdf">Healthcare - Payment Processing Company</a></li>
 <li><a href="https://jasonmyersphd.files.wordpress.com/2019/02/nmsc-payments-use-case-infographic.pdf">Utilities - Payment Processing</a></li>
 </ul>
-</li>
-<li>Case studies
+
+### Case studies
 <ul>
 <li><a href="https://jasonmyersphd.files.wordpress.com/2019/02/cs-national-merchant-services-payments.pdf">Financial Services - Merchant Services Company</a></li>
 <li><a href="https://jasonmyersphd.files.wordpress.com/2019/02/cs-payments_mpa.pdf">Financial Services - Payment Aggregator Company</a></li>
 </ul>
-</li>
-</ul>
-</li>
-<li>Denver Founders (2015-2017)- Content, Social Media, Marketing.
+
+## Miscellaneous
+A collection of freeland content with various startups.
+
+### Denver Founders (2015-2017)
+Content, Social Media, Marketing
 <ul>
 <li><a href="https://web.archive.org/web/20151018002827/https://www.denverfounders.com/blog/stories/">Founder Stories</a> (Link courtesy of the Wayback Machhine)</li>
 </ul>
-</li>
-<li><a title="Schoolrunner" href="http://schoolrunner.org/" target="_blank" rel="noopener noreferrer">Schoolrunner</a> (2016) - Education startup. B2B marketing white papers, blog posts.
+
+### Schoolrunner (2016) 
+Education startup. B2B marketing white papers, blog posts.
 <ul>
 <li><a href="https://jasonmyersphd.files.wordpress.com/2019/02/educate-white-paper.pdf">White Paper [PDF]</a></li>
 <li><a href="http://blog.schoolrunner.org/school-data-managers-the-who-what-and-why/" rel="bookmark">Data Managers: School Superheroes</a></li>
 <li><a href="http://blog.schoolrunner.org/the-ins-and-outs-of-social-emotional-learning/" rel="bookmark">All About SEL</a></li>
 <li><a href="http://blog.schoolrunner.org/standards-based-grading-the-full-lowdown/" rel="bookmark">Standards-Based Grading Explained</a></li>
 </ul>
-</li>
-<li><a href="http://www.welldatalabs.com/2016/02/downturn-doldrums-dont-just-survive-thrive-2/">Well Data Labs (2016) - Blog Post</a></li>
+
+### Well Data Labs (2016)
+<ul>
+<li><a href="http://www.welldatalabs.com/2016/02/downturn-doldrums-dont-just-survive-thrive-2/">Downturn doldrums: Don’t just survive, thrive.</a></li>
 </ul>
-<h3>History</h3>
+
+# History
 <ul>
 <li>The Ultimate History Project - easy-to-read articles on various aspects of history aimed at the general public.
 <ul>

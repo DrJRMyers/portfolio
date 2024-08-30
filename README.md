@@ -204,18 +204,18 @@ Education startup. B2B marketing white papers, blog posts.
 <li><a href="http://www.insidelacrosse.com/article/sector-spdrs-may-madness-inside-towson-s-surprising-10-9-upset-of-denver/35236">Denver vs. Towson, 5/15/16</a></li>
 </ul>
 </li>
-<li><a href="http://www.laxallstars.com">Lax All Stars</a>
+<li><a href="http://www.laxallstars.com">Lax All Stars</a> - Indepedent site.
 <ul>
 <li><a href="http://laxallstars.com/for-lacrosse-to-grow-football-needs-to-go/">For Lacrosse To Grow, Football Needs To  Go</a>, 2/16/16</li>
 </ul>
 </li>
-<li><a title="Jason Myers' articles on ILWT" href="https://web.archive.org/web/20150906043653/http://inlacrossewetrust.com/author/jason-myers/" target="_blank" rel="noopener noreferrer">In Lacrosse We Trust</a> - Independent site. Covered the Denver Outlaws of Major League Lacrosse in 2015.
+<li><a title="LXTC Articles" href="https://web.archive.org/web/20161109191424/https://www.lxtclacrosse.com/articles/" target="_blank" rel="noopener noreferrer">LXTC Lacrosse Training Center</a> - PR content designed to promote the club's activities, player/team accomplishments, and build brand identity.</li>
+<li><a title="Jason Myers' articles on ILWT" href="https://web.archive.org/web/20150906043653/http://inlacrossewetrust.com/author/jason-myers/" target="_blank" rel="noopener noreferrer">In Lacrosse We Trust</a> - Independent site. Covered the Denver Outlaws of Major League Lacrosse in 2015. (Now defunct)
 <ul>
 <li><a href="https://web.archive.org/web/20150906043653/http://inlacrossewetrust.com/author/jason-myers/" target="_blank" rel="noopener noreferrer">2015 Denver Outlaws coverage</a></li>
 </ul>
 </li>
-<li><a title="LXTC Articles" href="https://web.archive.org/web/20161109191424/https://www.lxtclacrosse.com/articles/" target="_blank" rel="noopener noreferrer">LXTC Lacrosse Training Center</a> - PR content designed to promote the club's activities, player/team accomplishments, and build brand identity.</li>
-<li><a title="10 Man Ride - Patriot League coverage" href="https://web.archive.org/web/20150811044714/http://10manride.com/category/jason-myers/" target="_blank" rel="noopener noreferrer">10 Man Ride</a> - Coverage of Division I men's lacrosse in 2015. (Now defunct)
+<li><a title="10 Man Ride - Patriot League coverage" href="https://web.archive.org/web/20150811044714/http://10manride.com/category/jason-myers/" target="_blank" rel="noopener noreferrer">10 Man Ride</a> - Independent site. Coverage of Division I men's lacrosse in 2015. (Now defunct)
 <ul>
 <li><a title="2015 Patriot League lacrosse coverage" href="https://web.archive.org/web/20150907044956/http://10manride.com/category/patriot/" target="_blank" rel="noopener noreferrer">2015 Patriot League Coverage</a></li>
 <li><a title="N-C-double &quot;eh?&quot; series" href="https://web.archive.org/web/20150909214914/http://10manride.com/category/n-c-double-eh/" target="_blank" rel="noopener noreferrer">2015 Canadians in Men's Division 1 Lacrosse coverage</a></li>
@@ -226,9 +226,9 @@ Education startup. B2B marketing white papers, blog posts.
 
 # Music
 <ul>
-<li><a title="Dead For A Year" href="http://www.deadforayear.com" target="_blank" rel="noopener noreferrer">Dead For A Year</a> 
-<li> A year-long blog project celebrating the work of the Grateful Dead. Reviewed a song-a-day.</li>
+<li><a title="Dead For A Year" href="http://www.deadforayear.com" target="_blank" rel="noopener noreferrer">Dead For A Year</a> - A year-long blog project celebrating the work of the Grateful Dead. Reviewed a song-a-day.</li>
 </ul>
 
-
+</br>
+</br>
 <p style="text-align: center;"><a href="http://www.linkedin.com/in/jrmyers"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Jason Myers's profile on LinkedIn" width="160" height="33" border="0" /></a></p>

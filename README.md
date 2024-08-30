@@ -38,8 +38,8 @@ A time series database company. Primarily marketing to developers using a produc
 </ul>
 
 ### Case studies
-Customer stories that focus on business challenges, technical challengs, custom solutions, and results. Most case studies include a long-form PDF document and an abbridged blog post. Some case studies were repurposed for event collateral, e.g., data sheets, one-page slicks, etc.
-
+<ul>
+<li>Customer stories that focus on business challenges, technical challengs, custom solutions, and results. Most case studies include a long-form PDF document and an abbridged blog post. Some case studies were repurposed for event collateral, e.g., data sheets, one-page slicks, etc.</li>
 <ul>
 <li><a href="https://www.influxdata.com/customer/algist-bruggeman/">Algist Bruggeman</a></li>
 <li><a href="https://www.influxdata.com/customer/bai-communications/">BAI Communications</a></li>
@@ -57,6 +57,7 @@ Customer stories that focus on business challenges, technical challengs, custom 
 <li><a href="https://www.influxdata.com/customer/sap/">SAP</a></li>
 <li><a href="https://www.influxdata.com/customer/volvo/">Volvo</a></li>
 <li><a href="https://www.influxdata.com/customer/wp-engine/">WP Engine</a></li>
+</ul>
 </ul>
 
 ### Video

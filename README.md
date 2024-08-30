@@ -19,11 +19,11 @@ A time series database company. Primarily marketing to developers using a produc
 <ul>
 <li>Notable posts
 <ul>
-<li><a class="is-navy" href="https://www.influxdata.com/blog/scaling-data-collection-solving-renewable-energy-challenges-influxdb">Scaling Data Collection: Solving Renewable Energy Challenges with InfluxDB</a></li>
-<li><a class="is-navy" href="https://www.influxdata.com/blog/expecting-influxdb-guide">What to Expect When You’re Expecting InfluxDB: A Guide</a></li>
-<li><a class="is-navy" href="https://www.influxdata.com/blog/data-historians-time-series-databases">Tale of the Tape: Data Historians vs Time Series Databases</a></li>
-<li><a class="is-navy" href="https://www.influxdata.com/blog/unleashing-real-time-insights-pairing-influxdb-data-lakes-warehouses">Unleashing Real-Time Insights: Pairing InfluxDB with Data Lakes and Data Warehouses</a></li>
-<li><a class="is-navy" href="https://www.influxdata.com/blog/time-series-data-olap-influxdb-real-time-analytics">Time Series Data and OLAP: Why You Should Use InfluxDB for Real-Time Analytics</a></li>
+<li><a href="https://www.influxdata.com/blog/scaling-data-collection-solving-renewable-energy-challenges-influxdb">Scaling Data Collection: Solving Renewable Energy Challenges with InfluxDB</a></li>
+<li><a href="https://www.influxdata.com/blog/expecting-influxdb-guide">What to Expect When You’re Expecting InfluxDB: A Guide</a></li>
+<li><a href="https://www.influxdata.com/blog/data-historians-time-series-databases">Tale of the Tape: Data Historians vs Time Series Databases</a></li>
+<li><a href="https://www.influxdata.com/blog/unleashing-real-time-insights-pairing-influxdb-data-lakes-warehouses">Unleashing Real-Time Insights: Pairing InfluxDB with Data Lakes and Data Warehouses</a></li>
+<li><a href="https://www.influxdata.com/blog/time-series-data-olap-influxdb-real-time-analytics">Time Series Data and OLAP: Why You Should Use InfluxDB for Real-Time Analytics</a></li>
 </ul>
 
 <li>Selected external blog content, including ghostwritten pieces.</li>
@@ -55,52 +55,54 @@ A time series database company. Primarily marketing to developers using a produc
 <li><a href="https://www.influxdata.com/customer/wp-engine/">WP Engine</a></li>
 </ul>
 </li>
-<li>Video series
-<ul>
-<li>Responsibilities included: production, script writing, presenting. Full list of individual videos available upon request.</li>
-<li>[youtube https://www.youtube.com/watch?v=DCP5rh_ro5E?si=4zUejqLg7Mh4YzTv]</li>
-<li>(Producer and script writer)</li>
-</ul>
-</li>
-<li>Various series
-<ul>
-<li>Meet the Developer (Producer and co-presenter)
-<ul>
-<li>[youtube https://www.youtube.com/watch?v=EUgn8aa3kmI?si=AkgzUVGjJpDnmRao]</li>
-</ul>
-</li>
-<li>Animated Concepts  (Producer, script writer)
-<ul>
-<li>[![Unlimited Cardinality in InfluxDB](https://img.youtube.com/vi/CzWVcDxmWbM/0.jpg)](https://www.youtube.com/watch?v=CzWVcDxmWbM "Unlimited Cardinality in InfluxDB")</li>
-<li>[youtube https://www.youtube.com/watch?v=5udeIDpcUxM?si=z4JbUjblTL5VYiEE]</li>
-<li>[youtube https://www.youtube.com/watch?v=VKIMnSrQKSE?si=abmM2CcwJ8dYu7vF]</li>
-<li>[youtube https://www.youtube.com/watch?v=uwqLWpmlQHM?si=-VQRnC_hCEQqJvxG]</li>
-<li>[youtube https://www.youtube.com/watch?v=KZwr1xBDbBQ?si=LWMKgts53Xl3p1f7]</li>
-</ul>
-</li>
-<li>InfluxDays 2022</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Training
+
+### Video
+I produced multiple series as well as one-off video projects. Responsibilities included: production, script writing, presenting. Full list of individual videos available upon request.</li>
+
+[![Getting Real-Time with InfluxDB](https://img.youtube.com/vi/DCP5rh_ro5E?si/0.jpg)](https://www.youtube.com/watch?v=DCP5rh_ro5E?si "Getting Real-Time with InfluxDB")
+<li>Producer and script writer</li>
+
+#### Meet the Developer series
+
+[![Apache Parquet and InfluxDB 3.0](https://img.youtube.com/vi/EUgn8aa3kmI/0.jpg)](https://www.youtube.com/watch?v=EUgn8aa3kmI "Apache Parquet and InfluxDB 3.0")
+<li>Producer, co-presenter, and script writer</li>
+
+#### Animated Concepts (Producer, script writer)
+
+[![Unlimited Cardinality in InfluxDB](https://img.youtube.com/vi/CzWVcDxmWbM/0.jpg)](https://www.youtube.com/watch?v=CzWVcDxmWbM "Unlimited Cardinality in InfluxDB")
+[![How Telegraf Works for Data Collection](https://img.youtube.com/vi/5udeIDpcUxM?si/0.jpg)](https://www.youtube.com/watch?v=5udeIDpcUxM?si "How Telegraf Works for Data Collection")
+[![InfluxDB Cold Storage](https://img.youtube.com/vi/VKIMnSrQKSE/0.jpg)](https://www.youtube.com/watch?v=VKIMnSrQKSE "InfluxDB Cold Storage")
+[![Intro to InfluxDB 3.0](https://img.youtube.com/vi/uwqLWpmlQHM/0.jpg)](https://www.youtube.com/watch?v=uwqLWpmlQHM "Intro to InfluxDB 3.0")
+[![What Is Time Series?](https://img.youtube.com/vi/KZwr1xBDbBQ/0.jpg)](https://www.youtube.com/watch?v=KZwr1xBDbBQ "What Is Time Series?")
+
+
+#### Video Events
+<li><a href="https://www.youtube.com/results?search_query=influxdays+2022">InfluxDays 2022</a></li>
+
+
+### Training
 <ul>
 <li><a href="https://university.influxdata.com/">InfluxDB University</a></li>
 <li><a href="https://university.influxdata.com/courses/influxdbu-essentials-iox/">InfluxDB 3.0 Essentials (producer)</a></li>
 <li><a href="https://www.influxdata.com/training/what-is-time-series/">Intro to Time Series (instructor)</a></li>
 </ul>
 </li>
-<li><a href="https://www.plumvoice.com/resources/blog/author/jason/">Plum Voice</a> - An interactive voice response (IVR) company. Primarily marketing to developers and non-technical decision-makers, using a sales led growth approach. Website copy, B2B marketing materials, white papers, case studies, blog posts all through January 2020. Product and internal product documentation since January 2020. NOTE: Plum Voice was acquired in early 2024, which may affect historical content.
-<ul>
-<li>Product Documentation
+
+## Plum Voice
+ An interactive voice response (IVR) company. Primarily marketing to developers and non-technical decision-makers, using a sales led growth approach. Website copy, B2B marketing materials, white papers, case studies, blog posts all through January 2020. Product and internal product documentation since January 2020. NOTE: Plum Voice was acquired in early 2024, which may affect historical content.
+
+ ### Blog
+ <a href="https://www.plumvoice.com/resources/blog/author/jason/">Internal blog posts</a> -
+
+### Product Documentation
 <ul>
 <li><a href="https://docs.plumvoice.com/dev/">DEV</a></li>
 <li><a href="https://docs.plumvoice.com/fuse/">Fuse</a></li>
 <li><a href="https://docs.plumvoice.com/insight/">Insight</a></li>
 <li><a href="https://docs.plumvoice.com/voicetrends/">Voicetrends</a></li>
 </ul>
-</li>
-<li> Videos
+
+### Video
 <ul>
 <li><a href="https://vimeo.com/plumvoiceivr">Plum Voice promo, product, and tutorial videos</a></li>
 </ul>

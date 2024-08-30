@@ -34,8 +34,11 @@ A time series database company. Primarily marketing to developers using a produc
 <li><a href="https://www.iiot-world.com/author/jason-myers/">IIoT World</a> - Blog content on industrial IoT uses of time series data.</li>
 <li><a href="https://dzone.com/refcardz/data-management-for-industrial-iot">DZone - Data Management in Industry 4.0 Ref Card</a></li>
 </ul>
+</ul>
 
 ### Case studies
+Customer stories that focus on business challenges, technical challengs, custom solutions, and results. Most case studies include a long-form PDF document and an abbridged blog post. Some case studies were repurposed for event collateral, e.g., data sheets, one-page slicks, etc.
+
 <ul>
 <li><a href="https://www.influxdata.com/customer/algist-bruggeman/">Algist Bruggeman</a></li>
 <li><a href="https://www.influxdata.com/customer/bai-communications/">BAI Communications</a></li>

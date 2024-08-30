@@ -61,17 +61,21 @@ A time series database company. Primarily marketing to developers using a produc
 </ul>
 
 ### Video
-I produced multiple series as well as one-off video projects. Responsibilities included: production, script writing, presenting. Full list of individual videos available upon request.</li>
+<ul>
+<li>I produced multiple series as well as one-off video projects. Responsibilities included production, script writing, and presenting. Full list of individual videos available upon request.</li>
 
-[![Getting Real-Time with InfluxDB](https://img.youtube.com/vi/DCP5rh_ro5E?si/0.jpg)](https://www.youtube.com/watch?v=DCP5rh_ro5E?si "Getting Real-Time with InfluxDB")
+[![Getting Real-Time with InfluxDB](https://img.youtube.com/vi/DCP5rh_ro5E?si/1.jpg)](https://www.youtube.com/watch?v=DCP5rh_ro5E?si "Getting Real-Time with InfluxDB")
 <li>Producer and script writer</li>
 
 #### Meet the Developer series
 
 [![Apache Parquet and InfluxDB 3.0](https://img.youtube.com/vi/EUgn8aa3kmI/0.jpg)](https://www.youtube.com/watch?v=EUgn8aa3kmI "Apache Parquet and InfluxDB 3.0")
-<li>Producer, co-presenter, and script writer</li>
+<ul>
+<li>We made seven 'seasons' of Meet The Developer, totalling over 50 videos. I served as producer, co-presenter, and script writer. Each shoot involved preproduction with SMEs and an external vendor, travel to California for in-studio shoots, and all-day prep sessions with SMEs/on-screen talent.</li>
+<li>In the video above, I co-presented with InfluxData founder and CEO, Paul Dix</li>
+</ul>
 
-#### Animated Concepts (Producer, script writer)
+#### Animated Concepts 
 
 [![Unlimited Cardinality in InfluxDB](https://img.youtube.com/vi/CzWVcDxmWbM/0.jpg)](https://www.youtube.com/watch?v=CzWVcDxmWbM "Unlimited Cardinality in InfluxDB")
 [![How Telegraf Works for Data Collection](https://img.youtube.com/vi/5udeIDpcUxM?si/0.jpg)](https://www.youtube.com/watch?v=5udeIDpcUxM?si "How Telegraf Works for Data Collection")
@@ -79,17 +83,24 @@ I produced multiple series as well as one-off video projects. Responsibilities i
 [![Intro to InfluxDB 3.0](https://img.youtube.com/vi/uwqLWpmlQHM/0.jpg)](https://www.youtube.com/watch?v=uwqLWpmlQHM "Intro to InfluxDB 3.0")
 [![What Is Time Series?](https://img.youtube.com/vi/KZwr1xBDbBQ/0.jpg)](https://www.youtube.com/watch?v=KZwr1xBDbBQ "What Is Time Series?")
 
+<ul>
+<li>Produced 14 high quality animated videos on technical concepts around InfluxDB and time series data. Worked with multiple external vendors to produce visuals, sound design, voice over, and more. I served as producer, script writer.</li>
+</ul>
+
 
 #### Video Events
 <ul>
 <li><a href="https://www.youtube.com/results?search_query=influxdays+2022">InfluxDays 2022</a></li>
+<li>InfluxData hosted an annual user event called InfluxDays for several years. In Fall 2022, we did an all online event with high production video content. This included more than 30 videos. I was one of the primary producers for the videos content, working with an external vendor, prepping SMEs, and coordinating logistics. This event brought team members to California from all over the world for filming.
 </ul>
 
 ### Training
 <ul>
-<li><a href="https://university.influxdata.com/">InfluxDB University</a></li>
+<li>I worked directly with the Director of Education to develop and build the pilot <a href="https://university.influxdata.com/">InfluxDB University</a>. I also lead a regular "Intro to Time Series" training for prospective customers and users.</li>
+<ul>
 <li><a href="https://university.influxdata.com/courses/influxdbu-essentials-iox/">InfluxDB 3.0 Essentials (producer)</a></li>
 <li><a href="https://www.influxdata.com/training/what-is-time-series/">Intro to Time Series (instructor)</a></li>
+</ul>
 </ul>
 
 ## Plum Voice

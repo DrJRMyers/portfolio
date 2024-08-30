@@ -8,6 +8,7 @@
 
 <p style="text-align: center;"><a href="http://www.linkedin.com/in/jrmyers"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Jason Myers's profile on LinkedIn" width="160" height="33" border="0" /></a></p>
 
+# Technology
 
 ## The New Stack
 <a href="https://thenewstack.io/author/jason-myers/">The New Stack articles by Jason Myers</a> - Blog content on time series data, and AI applications.
@@ -83,7 +84,7 @@ A time series database company. Primarily marketing to developers using a produc
 [![InfluxDB Cold Storage](https://img.youtube.com/vi/VKIMnSrQKSE/0.jpg)](https://www.youtube.com/watch?v=VKIMnSrQKSE "InfluxDB Cold Storage")
 [![Intro to InfluxDB 3.0](https://img.youtube.com/vi/uwqLWpmlQHM/0.jpg)](https://www.youtube.com/watch?v=uwqLWpmlQHM "Intro to InfluxDB 3.0")
 [![What Is Time Series?](https://img.youtube.com/vi/KZwr1xBDbBQ/0.jpg)](https://www.youtube.com/watch?v=KZwr1xBDbBQ "What Is Time Series?")
-// [![How Telegraf Works for Data Collection](https://img.youtube.com/vi/5udeIDpcUxM?si/0.jpg)](https://www.youtube.com/watch?v=5udeIDpcUxM?si "How Telegraf Works for Data Collection")
+[![How Telegraf Works for Data Collection](https://img.youtube.com/vi/5udeIDpcUxM?si/0.jpg)](https://www.youtube.com/watch?v=5udeIDpcUxM?si "How Telegraf Works for Data Collection")
 
 <ul>
 <li>I produced 14 high-quality animated videos on technical concepts around InfluxDB and time series data. Worked with multiple external vendors to produce visuals, sound design, voice over, and more. I served as producer, script writer.</li>
@@ -108,7 +109,7 @@ A time series database company. Primarily marketing to developers using a produc
 ## Plum Voice
  An interactive voice response (IVR) company. Primarily marketing to developers and non-technical decision-makers, using a sales led growth approach. 
  
- I wore many different hats at Plu, starting off as a copywriter responsible for website and ad copy, B2B marketing materials, white papers, case studies, and blog posts all through January 2020. Along the way, I also inherited analyst relations where I presented product updates to analysts at firms like Gartner and Forrester. Later I transitioned to a technical writer role, responisble for product documentation. NOTE: Plum Voice was acquired by SharpenCX in late 2023/early 2024, which may affect historical content.
+ I wore many different hats at Plum, starting off as a copywriter responsible for website and ad copy, B2B marketing materials, white papers, case studies, and blog posts all through January 2020. Along the way, I also inherited analyst relations where I presented product updates to analysts at firms like Gartner and Forrester. Later I transitioned to a technical writer role, responisble for product documentation. NOTE: Plum Voice was acquired by SharpenCX in late 2023/early 2024, which may affect historical content.
 
 ### Blog
 <ul>
@@ -154,9 +155,9 @@ Content, Social Media, Marketing
 Education startup. B2B marketing white papers, blog posts.
 <ul>
 <li><a href="https://jasonmyersphd.files.wordpress.com/2019/02/educate-white-paper.pdf">White Paper [PDF]</a></li>
-<li><a href="http://blog.schoolrunner.org/school-data-managers-the-who-what-and-why/" rel="bookmark">Data Managers: School Superheroes</a></li>
-<li><a href="http://blog.schoolrunner.org/the-ins-and-outs-of-social-emotional-learning/" rel="bookmark">All About SEL</a></li>
-<li><a href="http://blog.schoolrunner.org/standards-based-grading-the-full-lowdown/" rel="bookmark">Standards-Based Grading Explained</a></li>
+<li><a href="https://web.archive.org/web/20170627015638/http://blog.schoolrunner.org/school-data-managers-the-who-what-and-why/" rel="bookmark">Data Managers: School Superheroes</a></li>
+<li><a href="https://web.archive.org/web/20230402014300/https://blog.schoolrunner.org/the-ins-and-outs-of-social-emotional-learning/" rel="bookmark">All About SEL</a></li>
+<li><a href="https://web.archive.org/web/20230402020053/https://blog.schoolrunner.org/standards-based-grading-the-full-lowdown/" rel="bookmark">Standards-Based Grading Explained</a></li>
 </ul>
 
 ### Well Data Labs (2016)
@@ -189,7 +190,7 @@ Education startup. B2B marketing white papers, blog posts.
 <ul>
 <li>I covered professional and Division 1 men's lacrosse for leading national publications and independent sites. This included press access to games, post-game interviews, and writing to tight deadlines.</li>
 <ul>
-<li><a title="Inside Lacrosse" href="http://www.insidelacrosse.com/author/Jason-Myers" target="_blank" rel="noopener noreferrer">Inside Lacrosse</a> - Freelance content for IL's digital platform.
+<li><a title="Inside Lacrosse" href="http://www.insidelacrosse.com/author/Jason-Myers" target="_blank" rel="noopener noreferrer">Inside Lacrosse</a> - Leading lacrosse publication in the world.
 <ul>
 <li><a title="Denver/Notre Dame game coverage, March 7, 2015" href="http://www.insidelacrosse.com/article/photos-reaction-no-4-denver-11-no-3-notre-dame-10-ot/31171" target="_blank" rel="noopener noreferrer">Denver vs. Notre Dame, 3/7/15</a></li>
 <li><a title="Denver/Georgetown game coverage, March 28, 2015" href="http://www.insidelacrosse.com/article/photos-reaction-no-5-denver-19-no-14-georgetown-7/31469" target="_blank" rel="noopener noreferrer">Denver vs. Georgetown, 3/28/15</a></li>
@@ -208,23 +209,25 @@ Education startup. B2B marketing white papers, blog posts.
 <li><a href="http://laxallstars.com/for-lacrosse-to-grow-football-needs-to-go/">For Lacrosse To Grow, Football Needs To  Go</a>, 2/16/16</li>
 </ul>
 </li>
-<li><a title="Jason Myers' articles on ILWT" href="http://inlacrossewetrust.com/author/jason-myers/" target="_blank" rel="noopener noreferrer">In Lacrosse We Trust</a> - Freelance coverage of the Denver Outlaws of Major League Lacrosse in 2015.
+<li><a title="Jason Myers' articles on ILWT" href="https://web.archive.org/web/20150906043653/http://inlacrossewetrust.com/author/jason-myers/" target="_blank" rel="noopener noreferrer">In Lacrosse We Trust</a> - Independent site. Covered the Denver Outlaws of Major League Lacrosse in 2015.
 <ul>
-<li><a href="http://inlacrossewetrust.com/author/jason-myers/" target="_blank" rel="noopener noreferrer">2015 Denver Outlaws coverage</a></li>
+<li><a href="https://web.archive.org/web/20150906043653/http://inlacrossewetrust.com/author/jason-myers/" target="_blank" rel="noopener noreferrer">2015 Denver Outlaws coverage</a></li>
 </ul>
 </li>
-<li><a title="LXTC Articles" href="http://www.lxtclacrosse.com/articles/" target="_blank" rel="noopener noreferrer">LXTC Lacrosse Training Center</a> - PR content designed to engage clients and build brand identity.</li>
+<li><a title="LXTC Articles" href="https://web.archive.org/web/20161109191424/https://www.lxtclacrosse.com/articles/" target="_blank" rel="noopener noreferrer">LXTC Lacrosse Training Center</a> - PR content designed to promote the club's activities, player/team accomplishments, and build brand identity.</li>
 <li><a title="10 Man Ride - Patriot League coverage" href="https://web.archive.org/web/20150811044714/http://10manride.com/category/jason-myers/" target="_blank" rel="noopener noreferrer">10 Man Ride</a> - Coverage of Division I men's lacrosse in 2015. (Now defunct)
 <ul>
-<li><a title="2015 Patriot League lacrosse coverage" href="http://10manride.com/category/patriot/" target="_blank" rel="noopener noreferrer">2015 Patriot League Coverage</a></li>
-<li><a title="N-C-double &quot;eh?&quot; series" href="http://10manride.com/category/n-c-double-eh/" target="_blank" rel="noopener noreferrer">2015 Canadians in Men's Division 1 Lacrosse coverage</a></li>
-<li><a title="Thompson Watch at 10 Man Ride" href="http://10manride.com/tag/thompson-watch/" target="_blank" rel="noopener noreferrer">2015 Lyle Thompson pursuit of scoring record coverage</a></li>
+<li><a title="2015 Patriot League lacrosse coverage" href="https://web.archive.org/web/20150907044956/http://10manride.com/category/patriot/" target="_blank" rel="noopener noreferrer">2015 Patriot League Coverage</a></li>
+<li><a title="N-C-double &quot;eh?&quot; series" href="https://web.archive.org/web/20150909214914/http://10manride.com/category/n-c-double-eh/" target="_blank" rel="noopener noreferrer">2015 Canadians in Men's Division 1 Lacrosse coverage</a></li>
+<li><a title="Thompson Watch at 10 Man Ride" href="https://web.archive.org/web/20150909214918/http://10manride.com/tag/thompson-watch/" target="_blank" rel="noopener noreferrer">2015 Coverage of Lyle Thompson's pursuit of NCAA D1 scoring record</a></li>
 </ul>
-</li>
 </ul>
-<h3>Music</h3>
+</ul>
+
+# Music
 <ul>
-<li><a title="Dead For A Year" href="http://www.deadforayear.com" target="_blank" rel="noopener noreferrer">Dead For A Year</a> blog project - celebrating the work of the Grateful Dead for an entire year.</li>
+<li><a title="Dead For A Year" href="http://www.deadforayear.com" target="_blank" rel="noopener noreferrer">Dead For A Year</a> 
+<li> A year-long blog project celebrating the work of the Grateful Dead. Reviewed a song-a-day.</li>
 </ul>
 
 

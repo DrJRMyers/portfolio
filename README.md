@@ -6,6 +6,8 @@
 <p>Whether you're looking for a content writer (assets that inform) a copywriter (assets that convert), or an eagle-eyed editor, I've got your bases covered.</p>
 <p>Feel free to peruse some highlights from my growing portfolio and <a href="https://www.linkedin.com/in/jrmyers/">connect with me on LinkedIn</a> or contact me directly via <a href="mailto:doctorofcontent@gmail.com">email</a>.</p>
 
+<p style="text-align: center;"><a href="http://www.linkedin.com/in/jrmyers"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Jason Myers's profile on LinkedIn" width="160" height="33" border="0" /></a></p>
+
 
 ## The New Stack
 <a href="https://thenewstack.io/author/jason-myers/">The New Stack articles by Jason Myers</a> - Blog content on time series data, and AI applications.
@@ -31,8 +33,8 @@ A time series database company. Primarily marketing to developers using a produc
 <li><a href="https://www.infoworld.com/article/3638772/making-the-use-method-of-monitoring-useful.html">InfoWorld</a></li>
 <li><a href="https://venturebeat.com/2022/03/19/examining-the-ethics-of-ai-development/">VentureBeat</a></li>
 <li><a href="https://techcrunch.com/2022/07/07/flipping-the-sales-script-how-to-break-biases-and-diversify-sales-teams/">TechCrunch</a></li>
-<li><a href="https://www.iiot-world.com/author/jason-myers/">IIoT World</a> - Blog content on industrial IoT uses of time series data.</li>
-<li><a href="https://dzone.com/refcardz/data-management-for-industrial-iot">DZone - Data Management in Industry 4.0 Ref Card</a></li>
+<li><a href="https://www.iiot-world.com/author/jason-myers/">IIoT World</a> - Blog content on industrial IoT uses of time series data</li>
+<li><a href="https://dzone.com/refcardz/data-management-for-industrial-iot">DZone</a> - Data Management in Industry 4.0 Ref Card</li>
 </ul>
 </ul>
 </ul>
@@ -81,7 +83,7 @@ A time series database company. Primarily marketing to developers using a produc
 [![InfluxDB Cold Storage](https://img.youtube.com/vi/VKIMnSrQKSE/0.jpg)](https://www.youtube.com/watch?v=VKIMnSrQKSE "InfluxDB Cold Storage")
 [![Intro to InfluxDB 3.0](https://img.youtube.com/vi/uwqLWpmlQHM/0.jpg)](https://www.youtube.com/watch?v=uwqLWpmlQHM "Intro to InfluxDB 3.0")
 [![What Is Time Series?](https://img.youtube.com/vi/KZwr1xBDbBQ/0.jpg)](https://www.youtube.com/watch?v=KZwr1xBDbBQ "What Is Time Series?")
-[![How Telegraf Works for Data Collection](https://img.youtube.com/vi/5udeIDpcUxM?si/0.jpg)](https://www.youtube.com/watch?v=5udeIDpcUxM?si "How Telegraf Works for Data Collection")
+// [![How Telegraf Works for Data Collection](https://img.youtube.com/vi/5udeIDpcUxM?si/0.jpg)](https://www.youtube.com/watch?v=5udeIDpcUxM?si "How Telegraf Works for Data Collection")
 
 <ul>
 <li>I produced 14 high-quality animated videos on technical concepts around InfluxDB and time series data. Worked with multiple external vendors to produce visuals, sound design, voice over, and more. I served as producer, script writer.</li>
@@ -163,6 +165,15 @@ Education startup. B2B marketing white papers, blog posts.
 </ul>
 
 # History
+
+## Printed Works
+<ul>
+<li><em><a title="The Great War and Memory in Irish Culture, 1918–2010" href="http://amzn.to/1urBHLJ" target="_blank" rel="noopener noreferrer">The Great War and Memory in Irish Culture, 1918–2010</a></em>. Book. Published in 2013, paperback edition 2016.</li>
+<li>“Keeping the Old Country Alive: Cultural Connections between Chicago and Ireland, 1900–1933,” in <a title="New Perspective on the Irish Abroad: The Silent People?" href="http://amzn.to/1uqhOH5" target="_blank" rel="noopener noreferrer"><em>New Perspectives on the Irish Abroad: The Silent People?</em></a>, eds. Mícheál Ó hAodha and Máirtín Ó Catháin. Book chapter in an edited collection.</li>
+<li>Numerous book reviews in various publications.</li>
+</ul>
+
+## Digital Essays
 <ul>
 <li>The Ultimate History Project - easy-to-read articles on various aspects of history aimed at the general public.
 <ul>
@@ -173,7 +184,10 @@ Education startup. B2B marketing white papers, blog posts.
 <li><a title="HNN: Veteran's Day in Ireland" href="http://hnn.us/article/153892" target="_blank" rel="noopener noreferrer">History News Network</a> - special article commissioned for Veteran's Day.</li>
 <li>The Irish Story - <a title="The Irish Story, Reconsidering Irish fatalities in the First World War" href="http://www.theirishstory.com/2015/03/25/reconsidering-irish-fatalities-in-the-first-world-war/" target="_blank" rel="noopener noreferrer">Reconsidering Irish Fatalities in the First World War</a>, includes maps created with ESRI ArcGIS (3/25/15).</li>
 </ul>
-<h3>Sports</h3>
+
+# Sports
+<ul>
+<li>I covered professional and Division 1 men's lacrosse for leading national publications and independent sites. This included press access to games, post-game interviews, and writing to tight deadlines.</li>
 <ul>
 <li><a title="Inside Lacrosse" href="http://www.insidelacrosse.com/author/Jason-Myers" target="_blank" rel="noopener noreferrer">Inside Lacrosse</a> - Freelance content for IL's digital platform.
 <ul>
@@ -212,14 +226,6 @@ Education startup. B2B marketing white papers, blog posts.
 <ul>
 <li><a title="Dead For A Year" href="http://www.deadforayear.com" target="_blank" rel="noopener noreferrer">Dead For A Year</a> blog project - celebrating the work of the Grateful Dead for an entire year.</li>
 </ul>
-<h2>Printed Content</h2>
-<ul>
-<li><em><a title="The Great War and Memory in Irish Culture, 1918–2010" href="http://amzn.to/1urBHLJ" target="_blank" rel="noopener noreferrer">The Great War and Memory in Irish Culture, 1918–2010</a></em>. Book. Publishing in 2013, paperback edition 2016.</li>
-<li>“Keeping the Old Country Alive: Cultural Connections between Chicago and Ireland, 1900–1933,” in <a title="New Perspective on the Irish Abroad: The Silent People?" href="http://amzn.to/1uqhOH5" target="_blank" rel="noopener noreferrer"><em>New Perspectives on the Irish Abroad: The Silent People?</em></a>, eds. Mícheál Ó hAodha and Máirtín Ó Catháin. Book chapter in an edited collection.</li>
-<li>CU Denver Global Energy Management Program Competitive Assessment.</li>
-<li>Numerous book reviews in various publications.</li>
-</ul>
+
 
 <p style="text-align: center;"><a href="http://www.linkedin.com/in/jrmyers"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Jason Myers's profile on LinkedIn" width="160" height="33" border="0" /></a></p>
-
-[![Unlimited Cardinality in InfluxDB](https://img.youtube.com/vi/CzWVcDxmWbM/0.jpg)](https://www.youtube.com/watch?v=CzWVcDxmWbM "Unlimited Cardinality in InfluxDB")

@@ -226,7 +226,7 @@ Education startup. B2B marketing white papers, blog posts.
 
 # Music
 <ul>
-<li><a title="Dead For A Year" href="http://www.deadforayear.com" target="_blank" rel="noopener noreferrer">Dead For A Year</a> - A year-long blog project celebrating the work of the Grateful Dead. Reviewed a song-a-day.</li>
+<li><a title="Dead For A Year" href="http://www.deadforayear.com" target="_blank" rel="noopener noreferrer">Dead For A Year</a> - A year-long blog project celebrating the work of the Grateful Dead. Reviewed a song-a-day. </li>
 </ul>
 
 </br>

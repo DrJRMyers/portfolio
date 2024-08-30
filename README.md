@@ -78,13 +78,13 @@ A time series database company. Primarily marketing to developers using a produc
 #### Animated Concepts 
 
 [![Unlimited Cardinality in InfluxDB](https://img.youtube.com/vi/CzWVcDxmWbM/0.jpg)](https://www.youtube.com/watch?v=CzWVcDxmWbM "Unlimited Cardinality in InfluxDB")
-[![How Telegraf Works for Data Collection](https://img.youtube.com/vi/5udeIDpcUxM?si/0.jpg)](https://www.youtube.com/watch?v=5udeIDpcUxM?si "How Telegraf Works for Data Collection")
 [![InfluxDB Cold Storage](https://img.youtube.com/vi/VKIMnSrQKSE/0.jpg)](https://www.youtube.com/watch?v=VKIMnSrQKSE "InfluxDB Cold Storage")
 [![Intro to InfluxDB 3.0](https://img.youtube.com/vi/uwqLWpmlQHM/0.jpg)](https://www.youtube.com/watch?v=uwqLWpmlQHM "Intro to InfluxDB 3.0")
 [![What Is Time Series?](https://img.youtube.com/vi/KZwr1xBDbBQ/0.jpg)](https://www.youtube.com/watch?v=KZwr1xBDbBQ "What Is Time Series?")
+[![How Telegraf Works for Data Collection](https://img.youtube.com/vi/5udeIDpcUxM?si/0.jpg)](https://www.youtube.com/watch?v=5udeIDpcUxM?si "How Telegraf Works for Data Collection")
 
 <ul>
-<li>Produced 14 high quality animated videos on technical concepts around InfluxDB and time series data. Worked with multiple external vendors to produce visuals, sound design, voice over, and more. I served as producer, script writer.</li>
+<li>I produced 14 high-quality animated videos on technical concepts around InfluxDB and time series data. Worked with multiple external vendors to produce visuals, sound design, voice over, and more. I served as producer, script writer.</li>
 </ul>
 
 
@@ -104,10 +104,12 @@ A time series database company. Primarily marketing to developers using a produc
 </ul>
 
 ## Plum Voice
- An interactive voice response (IVR) company. Primarily marketing to developers and non-technical decision-makers, using a sales led growth approach. Website copy, B2B marketing materials, white papers, case studies, blog posts all through January 2020. Product and internal product documentation since January 2020. NOTE: Plum Voice was acquired in early 2024, which may affect historical content.
+ An interactive voice response (IVR) company. Primarily marketing to developers and non-technical decision-makers, using a sales led growth approach. 
+ 
+ I wore many different hats at Plu, starting off as a copywriter responsible for website and ad copy, B2B marketing materials, white papers, case studies, and blog posts all through January 2020. Along the way, I also inherited analyst relations where I presented product updates to analysts at firms like Gartner and Forrester. Later I transitioned to a technical writer role, responisble for product documentation. NOTE: Plum Voice was acquired by SharpenCX in late 2023/early 2024, which may affect historical content.
 
 ### Blog
- <ul>
+<ul>
 <li> <a href="https://www.plumvoice.com/resources/blog/author/jason/">Internal blog posts</a></li>
 </ul>
 
@@ -138,7 +140,7 @@ A time series database company. Primarily marketing to developers using a produc
 </ul>
 
 ## Miscellaneous
-A collection of freeland content with various startups.
+A collection of freelance content with various startups.
 
 ### Denver Founders (2015-2017)
 Content, Social Media, Marketing

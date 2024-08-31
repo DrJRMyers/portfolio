@@ -4,19 +4,30 @@ With almost 20 years of professional writing and editing experience, I have seen
 
 In my career I thrived in startups, leading content teams and collaborating cross-functionally to drive impactful marketing initiatives. I'm particularly skilled in writing, messaging, content production, budget management, and data-driven decision-making. I also have a PhD (history) so I bring the [perspective and analytical skills](https://builtin.com/articles/why-tech-companies-should-consider-hiring-humanities-phds) from that training to the table. (See also [this](https://www.fastcompany.com/40440952/why-this-tech-ceo-keeps-hiring-humanities-majors), and [this](https://businessingmag.com/6578/leading/why-every-startup-should-consider-hiring-humanities-graduates/).)
 
-I’m a professional learner and have a proven record for getting up to speed with new technologies quickly. In short, I’m very tech savvy, but not technical. I’m typically the guy that everyone comes to when they need something done well and quickly.
+I’m a professional learner and have a proven record for getting up to speed with new industries and technologies quickly. So, although I’m not a coder, I'm very tech savvy. __*I’m typically the person who everyone comes to when they need something done well and quickly.*__
 
 Whether you're looking for a content writer (assets that inform) a copywriter (assets that convert), or an eagle-eyed editor, I've got your bases covered.
 
 Feel free to peruse some highlights from my growing portfolio, [connect with me on LinkedIn](https://www.linkedin.com/in/jrmyers/), or contact me directly via [email](mailto:doctorofcontent@gmail.com).
 
-<p style="text-align: center;"><a href="http://www.linkedin.com/in/jrmyers"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Jason Myers's profile on LinkedIn" width="160" height="33" border="0" /></a></p>
+## Table of Contents
+
+- [Technology](#technology)
+  - [The New Stack](#the-new-stack)
+  - [InfluxData](#influxdata)
+  - [Plum Voice](#plum-voice)
+  - [Freelance](#freelance)
+- [History](#history)
+- [Sports](#sports)
+- [Music](#music)
+
+<p style="text-align: center;"><a href="http://www.linkedin.com/in/jrmyers"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Jason Myers' profile on LinkedIn" width="160" height="33" border="0" /></a></p>
 
 ## Technology
 
 ### The New Stack
 
-[The New Stack articles by Jason Myers](https://thenewstack.io/author/jason-myers/) - Wrote content on time series data while with InfluxData, and AI applications for Zilliz.
+[List of articles by Jason Myers](https://thenewstack.io/author/jason-myers/) - Wrote content on time series data while with InfluxData, and AI applications for Zilliz.
 
 ### InfluxData
 

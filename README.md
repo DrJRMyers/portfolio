@@ -16,7 +16,7 @@ Feel free to peruse some highlights from my growing portfolio, [connect with me 
 
 ### The New Stack
 
-[The New Stack articles by Jason Myers](https://thenewstack.io/author/jason-myers/) - Blog content on time series data, and AI applications.
+[The New Stack articles by Jason Myers](https://thenewstack.io/author/jason-myers/) - Wrote content on time series data while with InfluxData, and AI applications for Zilliz.
 
 ### InfluxData
 
@@ -46,8 +46,7 @@ Customer stories that focus on business challenges, technical challenges, custom
 - [BAI Communications](https://www.influxdata.com/customer/bai-communications/)
 - [Crosser](https://www.influxdata.com/customer/crosser/)
 - [Ezako](https://www.influxdata.com/blog/automate-anomaly-detection-time-series-data/)
-- [Graphite Energy](https://www.influxdata.com/customer/graphite-energy/)
-- [Herrenknecht AG](https://www.influxdata.com/customer/herrenknecht-ag/)
+- [Graphite Energy](https://www.influxdata.com/customer/graphite-energy/)- [Herrenknecht AG](https://www.influxdata.com/customer/herrenknecht-ag/)
 - [HighByte](https://www.influxdata.com/customer/highbyte/)
 - [IBM](https://www.influxdata.com/customer/ibm/)
 - [IT Squared](https://www.influxdata.com/customer/it-squared/)
@@ -114,7 +113,7 @@ I wore many different hats at Plum, starting off as a copywriter responsible for
 
 #### Video
 
-- [Plum Voice promo, product, and tutorial videos](https://vimeo.com/plumvoiceivr)
+- [Plum Voice promo, product, and tutorial videos](https://vimeo.com/plumvoiceivr) (Vimeo)
 
 #### Infographics
 
@@ -160,10 +159,10 @@ Education startup. B2B marketing white papers, blog posts.
 
 ### Digital Essays
 
-- The Ultimate History Project - easy-to-read articles on various aspects of history aimed at the general public.
+- The Ultimate History Project - Easy-to-read articles on various aspects of history aimed at the general public.
   - [The Boy is Back in Town: De Valera and Fianna Fáil’s Electoral Victory in 1932](http://ultimatehistoryproject.com/eamon-de-valera.html)
   - [The Irish Soldier in World War I: A complicated dilemma](http://www.ultimatehistoryproject.com/irish-soldiers-in-world-war-i.html)
-- [History News Network](http://hnn.us/article/153892) - special article commissioned for Veteran's Day.
+- [History News Network](http://hnn.us/article/153892) - Article commissioned for Veteran's Day.
 - The Irish Story - [Reconsidering Irish Fatalities in the First World War](http://www.theirishstory.com/2015/03/25/reconsidering-irish-fatalities-in-the-first-world-war/), includes maps created with ESRI ArcGIS (3/25/15).
 
 ## Sports

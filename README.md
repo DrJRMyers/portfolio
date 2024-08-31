@@ -27,7 +27,7 @@ Feel free to peruse some highlights from my growing portfolio, [connect with me 
 
 ### The New Stack
 
-[List of articles by Jason Myers](https://thenewstack.io/author/jason-myers/) - Wrote content on time series data while with InfluxData, and AI applications for Zilliz.
+[List of articles by Jason Myers](https://thenewstack.io/author/jason-myers/) - Wrote content on time series data while with InfluxData, and AI applications for [Zilliz](https://www.zilliz.com).
 
 ### InfluxData
 

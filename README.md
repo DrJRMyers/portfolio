@@ -1,6 +1,6 @@
 # Portfolio
 
-With almost 20 years of professional writing and editing experience, I have seen and done a lot. I also have 9+ years’ experience in the tech and SaaS sectors, specializing in content strategy, brand voice, and leveraging digital technologies to boost engagement and conversions.
+With almost 20 years of professional writing and editing experience, I have seen and done a lot. I also have 9+ years’ experience in the B2B tech and SaaS sectors, specializing in content strategy, brand voice, and leveraging digital technologies to boost engagement and conversions.
 
 In my career I thrived in startups, leading content teams and collaborating cross-functionally to drive impactful marketing initiatives. I'm particularly skilled in writing, messaging, content production, budget management, and data-driven decision-making. I also have a PhD (history) so I bring the [perspective and analytical skills](https://builtin.com/articles/why-tech-companies-should-consider-hiring-humanities-phds) from that training to the table. (See also [this](https://www.fastcompany.com/40440952/why-this-tech-ceo-keeps-hiring-humanities-majors), and [this](https://businessingmag.com/6578/leading/why-every-startup-should-consider-hiring-humanities-graduates/).)
 

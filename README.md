@@ -33,6 +33,7 @@ A company that builds tools and delivers services for creating the immersive, AI
 #### Blog content
 
 - Infinite Reality blog articles by Jason Myers - Internal blog posts only. Mostly product-focused.
+  - [Get started with Napster Spaces: A visual walkthrough](https://www.theinfinitereality.com/blog/get-started-napster-spaces-visual-walkthrough)
   - [iR Studio and Ready Player Me: Powering 3D Personalization for Ecommerce](https://www.theinfinitereality.com/blog/ir-studio-ready-player-me-powering-3d-personalization-ecommerce)
   - [Go Beyond the Grid: Connect Shopify to Your 3D Ecommerce Space](https://www.theinfinitereality.com/blog/go-beyond-grid-connect-shopify-your-3d-ecommerce-space)
   - [Immersive 3D Experiences: The Competitive Edge for Brand Collaborations](https://www.theinfinitereality.com/blog/immersive-3d-experiences-competitive-edge-brand-collaborations)

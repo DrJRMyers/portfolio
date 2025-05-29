@@ -25,6 +25,21 @@ Feel free to peruse some highlights from my growing portfolio, [connect with me 
 
 ## Technology
 
+### Infinite Reality
+
+A company that builds tools and delivers services for creating the immersive, AI-powered web. (Note: Infinite Reality acquired Napster, then rebranded as Napster Corporation.)
+
+#### Blog content
+
+-[Infinite Reality blog articles by Jason Myers]() - Internal blog posts only. Mostly product-focused.
+  - [iR Studio and Ready Player Me: Powering 3D Personalization for Ecommerce](https://www.theinfinitereality.com/blog/ir-studio-ready-player-me-powering-3d-personalization-ecommerce)
+  - [Go Beyond the Grid: Connect Shopify to Your 3D Ecommerce Space](https://www.theinfinitereality.com/blog/go-beyond-grid-connect-shopify-your-3d-ecommerce-space)
+  - [Immersive 3D Experiences: The Competitive Edge for Brand Collaborations](https://www.theinfinitereality.com/blog/immersive-3d-experiences-competitive-edge-brand-collaborations)
+  - [Infinite Reality is Now Available on Google Cloud Marketplace](https://www.theinfinitereality.com/blog/infinite-reality-available-google-cloud-marketplace)
+  - [iR Studio 1.0: A New Way to Web](https://www.theinfinitereality.com/blog/ir-studio-a-new-way-to-web)
+-Selected external blog content, including ghostwritten pieces.
+  - [Adweek](https://www.adweek.com/sponsored/immersive-tech-is-your-new-retail-reality/)
+
 ### The New Stack
 
 [List of articles by Jason Myers](https://thenewstack.io/author/jason-myers/) - Wrote content on time series data while with InfluxData, and AI applications for [Zilliz](https://www.zilliz.com).

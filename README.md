@@ -1,12 +1,12 @@
 # Portfolio
 
-With almost 20 years of professional writing and editing experience, I have seen and done a lot. I also have 9+ years’ experience in the B2B tech and SaaS sectors, specializing in content strategy, brand voice, and leveraging digital technologies to boost engagement and conversions.
+With almost 20 years of professional writing and editing experience, I have seen and done a lot. I also have 10+ years’ experience in the B2B tech and SaaS sectors, specializing in content strategy, brand voice, and leveraging digital technologies to boost engagement and conversions.
 
 In my career I thrived in startups, leading content teams and collaborating cross-functionally to drive impactful marketing initiatives. I'm particularly skilled in writing, messaging, content production, budget management, and data-driven decision-making. I also have a PhD (history) so I bring the [perspective and analytical skills](https://builtin.com/articles/why-tech-companies-should-consider-hiring-humanities-phds) from that training to the table. (See also [this](https://www.fastcompany.com/40440952/why-this-tech-ceo-keeps-hiring-humanities-majors), and [this](https://businessingmag.com/6578/leading/why-every-startup-should-consider-hiring-humanities-graduates/).)
 
 I’m a professional learner and have a proven record for getting up to speed with new industries and technologies quickly. So, although I’m not a coder, I'm very tech savvy. __*I’m typically the person who everyone comes to when they need something done well and quickly.*__
 
-Whether you're looking for a content writer (assets that inform) a copywriter (assets that convert), or an eagle-eyed editor, I've got your bases covered.
+Whether you're looking for a content strategist, a content writer (assets that inform), a copywriter (assets that convert), or an eagle-eyed editor, I've got your bases covered.
 
 Feel free to peruse some highlights from my growing portfolio, [connect with me on LinkedIn](https://www.linkedin.com/in/jrmyers/), or contact me directly via [email](mailto:doctorofcontent@gmail.com).
 

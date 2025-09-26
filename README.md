@@ -13,7 +13,7 @@ Feel free to peruse some highlights from my growing portfolio, [connect with me 
 ## Table of Contents
 
 - [Technology](#technology)
-  - [Infinite Reality](#infinite-reality)
+  - [Infinite Reality/Napster Corp](#infinite-reality)
   - [The New Stack](#the-new-stack)
   - [InfluxData](#influxdata)
   - [Plum Voice](#plum-voice)
@@ -26,7 +26,7 @@ Feel free to peruse some highlights from my growing portfolio, [connect with me 
 
 ## Technology
 
-### Infinite Reality
+### Infinite Reality/Napster Corp
 
 A company that builds tools and delivers services for creating the immersive, AI-powered web. (Note: Infinite Reality acquired Napster, then rebranded as Napster Corporation.)
 

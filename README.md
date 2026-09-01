@@ -13,6 +13,7 @@ Feel free to peruse some highlights from my growing portfolio, [connect with me 
 ## Table of Contents
 
 - [Technology](#technology)
+  - [Cloudsmith](#cloudsmith)
   - [Infinite Reality/Napster Corp](#infinite-reality)
   - [The New Stack](#the-new-stack)
   - [InfluxData](#influxdata)
@@ -25,6 +26,36 @@ Feel free to peruse some highlights from my growing portfolio, [connect with me 
 <p style="text-align: center;"><a href="http://www.linkedin.com/in/jrmyers"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" alt="View Jason Myers' profile on LinkedIn" width="160" height="33" border="0" /></a></p>
 
 ## Technology
+
+### Cloudsmith
+
+Cloud-native artifact management platform
+
+#### Blog content
+
+- Selection focused on technical content.
+  - [Simplify repository structure with connected repositories](https://cloudsmith.com/blog/simplify-repository-structure-with-connected-repositories)
+  - [How to use Cloudsmith as a dependency firewall](https://cloudsmith.com/blog/how-to-use-cloudsmith-as-a-dependency-firewall)
+  - [A dependency firewall gives your scanner better inputs](https://cloudsmith.com/blog/a-dependency-firewall-gives-your-scanner-better-inputs)
+  - [Dependency attacks start before your scanner runs](https://cloudsmith.com/blog/dependency-attacks-start-before-your-scanner-runs)
+  - [How Cloudsmith cooldown policies block newly published packages without disrupting your builds](https://cloudsmith.com/blog/how-cloudsmith-cooldown-policies-block-newly-published-packages-without-disrupting-your-builds)
+  - [How artifact management closes the gaps that leave you exposed under the CRA](https://cloudsmith.com/blog/how-artifact-management-closes-the-gaps-that-leave-you-exposed-under-the-cra)
+  - [AI is breaking your artifact governance – and not by writing bad code](https://cloudsmith.com/blog/ai-is-breaking-your-artifact-governance-and-not-by-writing-bad-code)
+  - [What is a package cooldown policy? How to prevent malicious dependencies from entering your environment](https://cloudsmith.com/blog/your-upstream-is-not-your-friend-why-security-teams-are-demanding-package-cooldown-policies)
+  - [Performance matters: How infrastructure impacts CI/CD](https://cloudsmith.com/blog/performance-matters-how-infrastructure-impacts-ci-cd)
+
+#### Video content
+
+- Served as producer for the following video series. I worked directly with SMEs to develop content and external vendor to film and edit the final product.
+  - [Cloudsmith products, features, and capabilities](https://www.youtube.com/playlist?list=PLT5UpnEajUJQ)
+  - [Dependency attacks and the software supply chain](https://www.youtube.com/playlist?list=PLCQb2V0rqjW4)
+  - [Software supply chain compliance for CRA and beyond](https://www.youtube.com/playlist?list=PLUcjoj7CHa5I)
+  - [Securing the AI-powered software supply chain](https://www.youtube.com/playlist?list=PLIQ_uWMZo-kY)
+
+#### White papers/reports
+
+- [2026 Artifact Management Report](https://cloudsmith.com/campaigns/2026-artifact-management-report)
+- [CRA Readiness Checklist](https://144530047.fs1.hubspotusercontent-eu1.net/hubfs/144530047/Cloudsmith%20CRA%20Readiness%20Checklist%20-%20OLD.pdf)
 
 ### Infinite Reality/Napster Corp
 
